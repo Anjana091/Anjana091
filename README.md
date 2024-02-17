@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on Web Designing<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning web development & Flutter<br>
+🔭 I’m currently working on Web Development Skills <br>🌱 learning web development & C++<br>
 
 
 ## 🌐 Socials:
